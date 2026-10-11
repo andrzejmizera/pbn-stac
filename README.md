@@ -2,7 +2,7 @@
 
 ---
 
-# Deep Reinforcement Learning for Controlled Traversing of Probabilistic Boolean Network Attractor Landscape in the Context of Cellular Reprogramming
+# pbn-STAC: Deep Reinforcement Learning for Controlled Traversing of Probabilistic Boolean Network Attractor Landscape in the Context of Cellular Reprogramming
 This repository provides the code, and agent models for the manuscript "Deep Reinforcement Learning for Controlled Traversing of Probabilistic Boolean Network Attractor Landscape in the Context of Cellular Reprogramming"
 This project extends the original methods introduced in [Papagiannis, Georgios, et al., 2019](https://arxiv.org/abs/1909.03331) implemented in [gym-PBN](https://github.com/UoS-PLCCN/gym-PBN/tree/main), [pbn-rl](https://github.com/UoS-PLCCN/pbn-rl)
 
