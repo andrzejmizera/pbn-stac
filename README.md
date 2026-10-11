@@ -34,6 +34,3 @@ Suite of experiments for running Deep Reinforcement Learning for control of Prob
     ```sh
     python train_sb3.py --time-steps 400_000 --env-name n28 --env envs/n28.pkl
     ```
-
-# Getting Help
-Principal developer: [Evangelos Chatzaroulas](mailto:e.chatzaroulas@surrey.ac.uk) ([Alternate e-mail](mailto:evangelos.ch.de@gmail.com)).
