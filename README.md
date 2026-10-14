@@ -1,3 +1,6 @@
+**This research was funded in whole or in part by the National Science Centre, Poland under the OPUS call in the Weave programme, grant number 2023/51/I/ST6/02864.**
+
+---
 
 # pbn-STAC: Deep Reinforcement Learning for Controlled Traversing of Probabilistic Boolean Network Attractor Landscape in the Context of Cellular Reprogramming
 This repository provides the code, and agent models for the manuscript "Deep Reinforcement Learning for Controlled Traversing of Probabilistic Boolean Network Attractor Landscape in the Context of Cellular Reprogramming"
